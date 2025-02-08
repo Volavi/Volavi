@@ -5,6 +5,9 @@
 
 ![profile video](482886b57c8d95aa.mp4)
 
+<video src="482886b57c8d95aa.mp4" width="320" height="240" controls></video>
+
+
 <!---
 Volavi/Volavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
