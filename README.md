@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Volavi
 - 👀 I’m interested in all things related to Cybersecurity in addition to servers, gaming and scripting
-- 🌱 From time to time working on my little project: [Wreckfest 2 AutoAdmin](https://github.com/Volavi/Wreckfest-2-Autoadmin)
+- 👩🏻‍💻 Working as a System Specialist @ Telia Company (Telia Finland)
 - 🎓 Thesis done on [Using artificial intelligence in reverse engineering (Theseus.fi)](https://urn.fi/URN:NBN:fi:amk-202504247504)
 - ⚡ Fun fact: You really should go and take a shower even if you didn't really want to
+- 🚀 Check out my personal, hobbyist repos below
 
 
 
